@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 https://github.com/ontech1983/ontech1983/wiki
+🎓 **[Aceder ao Portal de Formação e Treino](COLE_O_LINK_DA_WIKI_AQUI)**
